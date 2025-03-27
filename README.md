@@ -6,7 +6,7 @@ Features:
 - Based on GRU architecture
 - **98,8%** validation accuracy
 - Uses a combination of length, entropy, and features detected by the neural network
-- Small enough to be run on constrained environments
+- Small enough to be run in constrained environments
 - Pretrained models are provided for Tensorflow and Onxx
 
 ## Running
