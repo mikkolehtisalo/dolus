@@ -1,0 +1,6 @@
+tensorflow[and-cuda]
+scikit-learn
+matplotlib
+pydot
+tf2onnx
+psutil
